@@ -1,6 +1,4 @@
-# EvoloPy: An open source nature-inspired optimization toolbox for global optimization in Python
-
-The EvoloPy toolbox provides classical and recent nature-inspired metaheuristic for the global optimization. The list of optimizers that have been implemented includes Particle Swarm Optimization (PSO), Multi-Verse Optimizer (MVO), Grey Wolf Optimizer (GWO), and Moth Flame Optimization (MFO). The full list of implemented optimizers is available here https://github.com/7ossam81/EvoloPy/wiki/List-of-optimizers
+ https://github.com/7ossam81/EvoloPy/wiki/List-of-optimizers
 
 
 ## Features
@@ -27,11 +25,6 @@ you.
   
       sudo apt-get install python3-numpy python3-scipy liblapack-dev libatlas-base-dev libgsl0-dev fftw-dev libglpk-dev libdsdp-dev
 
-## Get the source
-
-Clone the Git repository from GitHub
-
-    git clone https://github.com/7ossam81/EvoloPy.git
 
 
 ## Quick User Guide
